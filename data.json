@@ -1,0 +1,84 @@
+{
+  "dealers": [
+    {
+      "id": "1003",
+      "name": "Maurti",
+      "totalBudget": "$15",
+      "remainingBudget": "$90",
+      "owner": {
+        "firstName": "John",
+        "lastName": "Doe"
+      },
+      "location": {
+        "latitude": "46545.45",
+        "longitude": "4655.45"
+      },
+      "cars": [
+        {
+          "id": 10003,
+          "name": "Maurti Figo",
+          "model": "2018",
+          "brand": "Maurti",
+          "color": "White",
+          "price": "$855"
+        },
+        {
+          "id": 2760,
+          "name": "Susiua",
+          "model": "mqwkmklm",
+          "brand": "lmklm",
+          "color": "klsdmakd",
+          "price": "klmqwkl"
+        }
+      ]
+    },
+    {
+      "id": "77b7",
+      "name": "Ford",
+      "location": {
+        "latitude": "0987.12",
+        "longitude": "123.33"
+      },
+      "totalBudget": "$4999",
+      "owner": {
+        "firstName": "Nj",
+        "lastName": "Rocks"
+      },
+      "remainingBudget": "$4500.00",
+      "cars": [
+        {
+          "id": 405,
+          "name": "Ford",
+          "model": "2023",
+          "brand": "Ford Endevour",
+          "color": "Silver",
+          "price": "$3000"
+        },
+        {
+          "id": 5742,
+          "name": "Ford",
+          "model": "2024",
+          "brand": "Kiya",
+          "color": "White",
+          "price": "$499"
+        },
+        {
+          "id": 2835,
+          "name": "Ford",
+          "model": "2021",
+          "brand": "seltos",
+          "color": "Black",
+          "price": "$999"
+        },
+        {
+          "id": 4886,
+          "name": "Ford",
+          "model": "2023",
+          "brand": "www",
+          "color": "Black",
+          "price": "$499"
+        }
+      ]
+    }
+  ]
+}

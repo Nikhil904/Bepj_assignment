@@ -1,0 +1,58 @@
+button.dealer-btn {
+  background-color: #0000ff;
+}
+
+button.view-btn {
+  background-color: #0000ff;
+}
+
+button.edit-btn {
+  background: #355e3b;
+}
+
+button.delet-btn {
+  background: #ff0000;
+}
+
+thead tr th {
+  background: #000 !important;
+  color: #fff !important;
+  text-align: center;
+}
+
+table tr td {
+  text-align: center;
+}
+
+.modal-content {
+  max-width: 700px;
+  margin: 0px auto;
+  display: block;
+  background: #fff;
+  border: 1px solid #ccc;
+}
+
+.inp-div {
+  width: 50%;
+}
+
+.tw-half input:last-child {
+  margin-left: auto;
+}
+.tw-half input {
+  width: 158px;
+}
+.tw-half {
+  width: 50%;
+}
+
+@media (max-width: 767px) {
+  div#basic-navbar-nav a {
+    margin-left: 0 !important;
+    border-bottom: 1px dotted #000;
+  }
+
+  div#basic-navbar-nav a:last-child {
+    border: 0;
+  }
+}
