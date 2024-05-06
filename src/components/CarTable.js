@@ -131,7 +131,7 @@ function CarTable() {
       />
       <div className="dealership-cont my-5">
         <Container>
-          <div className="d-flex align-items-end">
+          <div className="d-flex align-items-end" >
             <div>
               <h1 className="text-capitalize mn-3">dealership:{Data?.name}</h1>
               <form className="position-relative">
@@ -143,9 +143,9 @@ function CarTable() {
                 />
               </form>
             </div>
-            <div className="d-flex align-items-end">
+            <div className="d-flex align-items-center" style={{marginLeft:"auto"}}>
               <button
-                className="dealer-btn text-white rounded-pill text-capitalize d-flex align-items-center px-4  py-2 border-0"
+                className="dealer-btn text-white rounded-pill text-capitalize d-flex align-items-center px-4  py-2 border-0 mr-5"
                 type="button"
                 onClick={() => setVisible(true)}>
                 <svg
